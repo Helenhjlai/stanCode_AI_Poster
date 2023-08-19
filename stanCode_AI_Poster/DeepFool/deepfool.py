@@ -1,3 +1,4 @@
+import collections
 import numpy as np
 from torch.autograd import Variable
 import torch as torch
