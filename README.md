@@ -8,4 +8,4 @@ Our team chose "Adversarial Attack and Defense" as our topic.
 
 # Adversarial Attack
 * [FGSM](https://towardsdatascience.com/adversarial-examples-to-break-deep-learning-models-e7f543833eae)(Fast Gradient Sign Method)
-  * Easy and fast to do adversarial attack  *[Demo Code](https://github.com/Helenhjlai/stanCode_AI_Poster/blob/main/FGSM.ipynb)
+  * Easy and fast to do adversarial attack *[Demo Code](https://github.com/Helenhjlai/stanCode_AI_Poster/blob/main/FGSM.ipynb)*
