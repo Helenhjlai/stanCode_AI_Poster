@@ -17,11 +17,11 @@ See our full project PPT/PDF *[PDF](https://drive.google.com/file/d/1Lh4ClgbEGaa
   * Attack on specific pixels which are the most important feature through Jacobian Matrix. --> *[Demo Code](https://github.com/Helenhjlai/stanCode_AI_Poster/tree/main/stanCode_AI_Poster/JSMA)*
 
 # Defense
-* [Adversarial Training](https://github.com/mahyarnajibi/FreeAdversarialTraining):
-  * Our insights:
-    * More feasible on FGSM-like series attacks.
-    * if we try on JSMA, it'll consume lots of compuation and resourses.\
-      However, we try to add some adversarial examples into training data and re-train our model, it increases the model accuracy after being attacked --> *[Demo Code](https://github.com/Helenhjlai/stanCode_AI_Poster/blob/main/JSMA_adversarial_training.ipynb)*
+* [Adversarial Training](https://github.com/mahyarnajibi/FreeAdversarialTraining):\
+  Our insights:
+  * More feasible on FGSM-like series attacks.
+  * if we try on JSMA, it'll consume lots of compuation and resourses.\
+    However, we try to add some adversarial examples into training data and re-train our model, it increases the model accuracy after being attacked --> *[Demo Code](https://github.com/Helenhjlai/stanCode_AI_Poster/blob/main/JSMA_adversarial_training.ipynb)*
 * [Padding](https://arxiv.org/abs/1711.01991?fbclid=IwAR3iZWvLmVpR1SmsxxMHr_h0H_TcBK1P7Dfkfh45BruFndLDMViWREAu2dY):\
   Based on our experiment:
   * padding one pixel: the confidence of adversarial example drops 74%
